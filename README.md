@@ -1,5 +1,5 @@
-
-<!--
+aqiba9926@gmail.com 
+<!--gsp coin
  * @Author: snltty
  * @Date: 2021-08-22 14:09:03
  * @LastEditors: snltty
@@ -17,3 +17,4 @@
 <p>本项目不再更新，新版本请点击前往</p> 
 <a href="https://gitee.com/snltty/linker" target="_blank">gitee linker</a> | <a href="https://github.com/snltty/linker" target="_blank">github linker</a>
 </div>
+GS 2 coin 
